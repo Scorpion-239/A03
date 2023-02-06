@@ -1,3 +1,5 @@
+****************************      GIT Tutorial: A step by step guide to GitHub      ****************************  
+
 ** Create a GitHub Account **
 Go to getHub.com. Click on create an account. Enter an email address and password. Your account is created.
 
@@ -10,6 +12,7 @@ A repository is like a place or a container where something is stored. In this c
 WebStorm is a powerful IDE for modern JavaScript development. WebStorm provides full support for JavaScript, TypeScript, HTML, CSS as well as for frameworks such as React, Angular, and Vue.js right out of the box, no additional plugins are required. Besides client-side applications, WebStorm helps you develop server-side applications with Node.js, mobile apps with React Native or Cordova, and desktop apps with Electron. Note that having Node.js is highly recommended although the core WebStorm features are still at your disposal without it.
 
 
+**Git
 ** Bulleted List**
 
 **Merge** - Upon clicking merge, GitHub automatically performs the equivalent of a local ‘git merge’ operation. GitHub also keeps the entire branch development history on the merged pull request.
